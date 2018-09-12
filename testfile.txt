@@ -4,7 +4,7 @@ Command line instructions
 Git global setup
 
 git config --global user.name "Dinesh Yadav"
-git config --global user.email "dddyadav240@gmail.com"
+git config --global user.email "dinesh@gmail.com"
 
 Create a new repository
 
